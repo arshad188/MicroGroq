@@ -1,0 +1,45 @@
+{
+  "name": "almas",
+  "chats": [
+    {
+      "user": "File \"/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/subprocess.py\", line 1991, in _execute_child",
+      "assistant": "Got it! You asked: «Help me with: File \"/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/subprocess.py\", line 1991, in _execute_child»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "raise child_exception_type(errno_num, err_msg, err_filename)",
+      "assistant": "Got it! You asked: «Help me with: raise child_exception_type(errno_num, err_msg, err_filename)»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "FileNotFoundError: [Errno 2] No such file or directory: 'zip'",
+      "assistant": "Got it! You asked: «Help me with: FileNotFoundError: [Errno 2] No such file or directory: 'zip'»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "machine learning basics",
+      "assistant": "Doable plan for: «Help me with: machine learning basics»\n\n1. Clarify the exact goal and constraints.\n2. Break it into 3–5 small, concrete steps.\n3. Gather any missing information or resources.\n4. Execute step by step and check results.\n5. Review and improve.\n\nWould you like me to expand any of these steps?\n\nGot it! You asked: «Help me with: machine learning basics»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "seaech basics of machine learning",
+      "assistant": "Doable plan for: «Help me with: seaech basics of machine learning»\n\n1. Clarify the exact goal and constraints.\n2. Break it into 3–5 small, concrete steps.\n3. Gather any missing information or resources.\n4. Execute step by step and check results.\n5. Review and improve.\n\nWould you like me to expand any of these steps?\n\nGot it! You asked: «Help me with: seaech basics of machine learning»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "search machine learnong",
+      "assistant": "No results found. Try a different query."
+    },
+    {
+      "user": "superbised learning",
+      "assistant": "Doable plan for: «Help me with: superbised learning»\n\n1. Clarify the exact goal and constraints.\n2. Break it into 3–5 small, concrete steps.\n3. Gather any missing information or resources.\n4. Execute step by step and check results.\n5. Review and improve.\n\nWould you like me to expand any of these steps?\n\nGot it! You asked: «Help me with: superbised learning»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "i want to know petrol price on pKistan sear ch",
+      "assistant": "Doable plan for: «Help me with: i want to know petrol price on pKistan sear ch»\n\n1. Clarify the exact goal and constraints.\n2. Break it into 3–5 small, concrete steps.\n3. Gather any missing information or resources.\n4. Execute step by step and check results.\n5. Review and improve.\n\nWould you like me to expand any of these steps?\n\nGot it! You asked: «Help me with: i want to know petrol price on pKistan sear ch»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "learn linux",
+      "assistant": "Doable plan for: «Help me with: learn linux»\n\n1. Clarify the exact goal and constraints.\n2. Break it into 3–5 small, concrete steps.\n3. Gather any missing information or resources.\n4. Execute step by step and check results.\n5. Review and improve.\n\nWould you like me to expand any of these steps?\n\nGot it! You asked: «Help me with: learn linux»\n\nI can help you plan it, search for information, or just chat.\nType a clearer request or say “search …” if you want me to look something up."
+    },
+    {
+      "user": "search for gothub usefulness",
+      "assistant": "🔍 Search results for «Help me with: search for gothub usefulness»:\n\n• GitHub · Change is constant. GitHub keeps you ahead.\n  https://github.com/\n\n• GitHub · Why Choose GitHub? · GitHub\n  https://github.com/why-github\n\n• GitHub · GitHub\n  https://github.com/github\n\n• Search · GitHub\n  https://github.com/search\n\n• What Is GitHub Used For? Explained - tms-outsource.com\n  https://tms-outsource.com/blog/posts/what-is-github-used-for/\n\n(Tip: open the links in your browser for full details.)"
+    }
+  ]
+}
